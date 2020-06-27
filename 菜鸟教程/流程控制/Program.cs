@@ -11,6 +11,19 @@ namespace 流程控制
     {
         static void Main(string[] args)
         {
+            #region do...while语句
+            int sum1 = 0;
+            int j = 0;
+            do
+            {
+                sum1 += j;
+                j++;
+            } while (j < 101);
+            Console.WriteLine("1到100的累加和为{0}", sum1);
+            Console.ReadKey();
+            #endregion
+
+            #region while语句
             int sum = 0;
             int i = 0;
             while (i < 101)
@@ -20,6 +33,7 @@ namespace 流程控制
             }
             Console.WriteLine("1到100的累加和为{0}",sum);
             Console.ReadKey();
+            #endregion
 
             #region switch...case语句
             Console.WriteLine("请输入银行的简称:");
