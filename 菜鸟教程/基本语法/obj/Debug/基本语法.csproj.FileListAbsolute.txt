@@ -1,0 +1,5 @@
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\基本语法\bin\Debug\基本语法.exe.config
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\基本语法\bin\Debug\基本语法.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\基本语法\bin\Debug\基本语法.pdb
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\基本语法\obj\Debug\基本语法.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\基本语法\obj\Debug\基本语法.pdb

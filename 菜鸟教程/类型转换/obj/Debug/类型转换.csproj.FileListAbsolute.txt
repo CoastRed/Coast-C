@@ -1,0 +1,6 @@
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\bin\Debug\类型转换.exe.config
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\bin\Debug\类型转换.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\bin\Debug\类型转换.pdb
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\obj\Debug\类型转换.csprojResolveAssemblyReference.cache
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\obj\Debug\类型转换.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\obj\Debug\类型转换.pdb

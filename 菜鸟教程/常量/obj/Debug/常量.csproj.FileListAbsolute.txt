@@ -1,0 +1,5 @@
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\常量\bin\Debug\常量.exe.config
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\常量\bin\Debug\常量.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\常量\bin\Debug\常量.pdb
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\常量\obj\Debug\常量.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\常量\obj\Debug\常量.pdb

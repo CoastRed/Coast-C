@@ -1,0 +1,6 @@
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\变量\bin\Debug\变量.exe.config
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\变量\bin\Debug\变量.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\变量\bin\Debug\变量.pdb
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\变量\obj\Debug\变量.csprojResolveAssemblyReference.cache
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\变量\obj\Debug\变量.exe
+C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\变量\obj\Debug\变量.pdb
