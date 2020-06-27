@@ -4,3 +4,10 @@ C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\bin
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\obj\Debug\类型转换.csprojResolveAssemblyReference.cache
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\obj\Debug\类型转换.exe
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\类型转换\obj\Debug\类型转换.pdb
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\类型转换\bin\Debug\类型转换.exe.config
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\类型转换\bin\Debug\类型转换.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\类型转换\bin\Debug\类型转换.pdb
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\类型转换\obj\Debug\类型转换.csprojAssemblyReference.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\类型转换\obj\Debug\类型转换.csproj.CoreCompileInputs.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\类型转换\obj\Debug\类型转换.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\类型转换\obj\Debug\类型转换.pdb

@@ -5,3 +5,10 @@ C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\流程控制\obj
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\流程控制\obj\Debug\流程控制.csproj.CoreCompileInputs.cache
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\流程控制\obj\Debug\流程控制.exe
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\流程控制\obj\Debug\流程控制.pdb
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\流程控制\obj\Debug\流程控制.csprojAssemblyReference.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\流程控制\obj\Debug\流程控制.csproj.CoreCompileInputs.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\流程控制\obj\Debug\流程控制.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\流程控制\obj\Debug\流程控制.pdb
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\流程控制\bin\Debug\流程控制.exe.config
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\流程控制\bin\Debug\流程控制.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\流程控制\bin\Debug\流程控制.pdb

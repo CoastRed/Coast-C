@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,17 @@ namespace 流程控制
     {
         static void Main(string[] args)
         {
+            int sum = 0;
+            int i = 0;
+            while (i < 101)
+            {
+                sum += i;
+                i++;
+            }
+            Console.WriteLine("1到100的累加和为{0}",sum);
+            Console.ReadKey();
+
+            #region switch...case语句
             Console.WriteLine("请输入银行的简称:");
             string str2 = Console.ReadLine();
             switch (str2)
@@ -24,6 +36,8 @@ namespace 流程控制
                     break;
             }
             Console.ReadKey();
+            #endregion
+
             #region if...else...语句
             Console.WriteLine("请输入一个整数：");
             int iNum = Convert.ToInt32(Console.ReadLine());

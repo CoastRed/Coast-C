@@ -145,7 +145,7 @@ if (b)
 Console.ReadKey();
 ```
 
-## 5.循环结构
+## 5.while循环结构
 
 ```CSharp
 while(循环条件)

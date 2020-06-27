@@ -4,3 +4,10 @@ C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\数据类型\bin
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\数据类型\obj\Debug\数据类型.csprojResolveAssemblyReference.cache
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\数据类型\obj\Debug\数据类型.exe
 C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\数据类型\obj\Debug\数据类型.pdb
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数据类型\bin\Debug\数据类型.exe.config
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数据类型\bin\Debug\数据类型.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数据类型\bin\Debug\数据类型.pdb
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数据类型\obj\Debug\数据类型.csprojAssemblyReference.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数据类型\obj\Debug\数据类型.csproj.CoreCompileInputs.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数据类型\obj\Debug\数据类型.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数据类型\obj\Debug\数据类型.pdb
