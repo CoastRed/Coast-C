@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "常量", "常量\常量.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "流程控制", "流程控制\流程控制.csproj", "{3D69C7E1-FEC5-4D83-9ECA-48E403EF4C1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组", "数组\数组.csproj", "{951DF8DA-2840-41B0-81B6-56BE62BBA3AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3D69C7E1-FEC5-4D83-9ECA-48E403EF4C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D69C7E1-FEC5-4D83-9ECA-48E403EF4C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D69C7E1-FEC5-4D83-9ECA-48E403EF4C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951DF8DA-2840-41B0-81B6-56BE62BBA3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951DF8DA-2840-41B0-81B6-56BE62BBA3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951DF8DA-2840-41B0-81B6-56BE62BBA3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951DF8DA-2840-41B0-81B6-56BE62BBA3AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

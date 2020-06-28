@@ -1,0 +1,7 @@
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数组\bin\Debug\数组.exe.config
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数组\bin\Debug\数组.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数组\bin\Debug\数组.pdb
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数组\obj\Debug\数组.csprojAssemblyReference.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数组\obj\Debug\数组.csproj.CoreCompileInputs.cache
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数组\obj\Debug\数组.exe
+E:\Markdown\VNote\note\C#\Coast-C\菜鸟教程\数组\obj\Debug\数组.pdb

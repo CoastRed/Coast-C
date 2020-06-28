@@ -230,3 +230,18 @@ foreach([类型] [迭代变量名] in [集合表达式])
     语句
 }
 ```
+
+## 12.goto
+
+语法：goto 标签;
+
+标签需要提前定义好
+
+```CSharp
+Console.WriteLine("开始执行");
+goto label1;
+Console.WriteLine("goto语句里面的内容");
+label1:
+Console.WriteLine("标签里面的内容");
+Console.ReadKey();
+```
