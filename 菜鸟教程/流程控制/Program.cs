@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,6 +13,26 @@ namespace 流程控制
     {
         static void Main(string[] args)
         {
+
+            #region goto语句
+            Console.WriteLine("开始执行");
+            goto label1;
+            Console.WriteLine("goto语句里面的内容");
+            label1:
+            Console.WriteLine("标签里面的内容");
+            Console.ReadKey();
+            #endregion
+
+            #region for循环语句
+            int sum2 = 0;
+            for(int k = 0; k < 101; k++)
+            {
+                sum2 += k;
+            }
+            Console.WriteLine("1到100的累加和为{0}", sum2);
+            Console.ReadKey();
+            #endregion
+
             #region do...while语句
             int sum1 = 0;
             int j = 0;
