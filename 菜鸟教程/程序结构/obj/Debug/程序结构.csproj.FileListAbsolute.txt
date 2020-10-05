@@ -1,7 +1,0 @@
-C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\程序结构\bin\Debug\程序结构.exe.config
-C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\程序结构\bin\Debug\程序结构.exe
-C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\程序结构\bin\Debug\程序结构.pdb
-C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\程序结构\obj\Debug\程序结构.exe
-C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\程序结构\obj\Debug\程序结构.pdb
-C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\程序结构\obj\Debug\程序结构.csprojAssemblyReference.cache
-C:\Users\wenke.duan\Desktop\桌面文件\学习\C#\菜鸟教程\程序结构\obj\Debug\程序结构.csproj.CoreCompileInputs.cache
